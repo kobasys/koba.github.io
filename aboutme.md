@@ -10,9 +10,9 @@ Department of Biomedical Sciences
 New York Institute of Technology  
 College of Osteopathic Medicine  
 
-Rockefeller building, room 211/216B
-Northern Boulevard, P.O. Box 8000
-Old Westbury, NY 11568
+Rockefeller building, room 211/216B  
+Northern Boulevard, P.O. Box 8000  
+Old Westbury, NY 11568  
 
-E-mail: skobayas@nyit.edu
+E-mail:   
 Tel: 516 686 1389
