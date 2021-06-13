@@ -8,8 +8,6 @@ subtitle: Lab members
 tags: [members]
 ---
 
-# Members
-
 ## Principal Investigator
 
 ### Satoru Kobayashi, Ph. D.
@@ -21,7 +19,10 @@ Koba received his Ph.D. from the United Graduate School of Agricultural Sciences
 ![profile](/assets/img/tamayo.jpg)  
 Research Technician
 
-## Medical School Student 
+## Medical Student 
 
 
 ## Undergraduate Student 
+
+
+##  Alumni
