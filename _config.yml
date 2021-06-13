@@ -14,7 +14,7 @@ author: Satoru Kobayashi (KOBA)
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Contact: "aboutme"
+  Contact: "Contact"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -42,12 +42,12 @@ social-network-links:
   email: "skobayas@nyit.edu"
 #  facebook: deanattali
 #  github: kobasys
-twitter: @Kobasys
+  twitter: @Kobasys
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-linkedin: https://www.linkedin.com/in/satoru-kobayashi-09971818/
+  linkedin: satoru-kobayashi-09971818/
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -60,7 +60,7 @@ linkedin: https://www.linkedin.com/in/satoru-kobayashi-09971818/
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-ORCID: 0000-0003-4390-5726
+  ORCID: 0000-0003-4390-5726
 #  google-scholar: your google scholar
 
 # If you want to show a link to an RSS in the footer, add the site description here.
@@ -78,7 +78,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+# url-pretty: "MyWebsite.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
