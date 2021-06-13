@@ -14,11 +14,11 @@ author: Satoru Kobayashi (KOBA)
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  CONTACT: "aboutme"
   MISSION: "ourmission"
-  WORK: "research"
-  PUBLICATION: "publication"  
+  WORKS: "research"
+  PUBLICATIONS: "publication"  
   MEMBERS: "members"  
+  CONTACT: "aboutme"  
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
