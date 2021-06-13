@@ -5,7 +5,6 @@ subtitle:
 ---
 
 ### Satoru Kobayashi, Ph.D.
-![profile](/assets/img/skobayas.jpg)  
 Instructor  
 Department of Biomedical Sciences  
 New York Institute of Technology  
