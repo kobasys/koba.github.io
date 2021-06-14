@@ -18,4 +18,4 @@ Diabetes kills two out of three patients by causing heart disease. It’s not a 
 #### Why do the heart cells fail to jump out from the boiling pot to save themselves?  
 What we found is that too much sugar injures lysosomes. Lysosomes are the defense force in your heart cells. They are in charge of breaking down and removing damaged debris inside the cells for your health. High glucose, the sugar, is a moderate but still fatal stress to the cells. Our cell defense system is compromised and fails to respond to this sneaking stress. The frog already lost the power to jump out.  
 
-Now, we are seeking the ways to repair the injury of lysosome to make sure they protect by themselves so that they can protect your heart.
+Our mission is to find ways to repair the injury of lysosome to make sure they protect by themselves so that they can protect your heart.
