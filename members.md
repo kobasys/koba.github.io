@@ -17,7 +17,7 @@ Koba received his Ph.D. from the United Graduate School of Agricultural Sciences
 ## Staff
 ### Tamayo Kobayashi, B. Ed., M.B.A.
 ![profile](/assets/img/tamayo.jpg)  
-Research Technician
+Lab Manager
 
 ## Medical Student 
 
