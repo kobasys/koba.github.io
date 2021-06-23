@@ -26,7 +26,7 @@ Lab Manager
 
 ##  Past Lab Members
 #### Amanda Kaminaris, PA-C
-![profile](/assets/img/amanda.jpg)  
+![profile](/assets/img/Amanda.jpg)  
 Research technician (2015-2017)  
 Currently working in the OB/GYN department of Labor and delivery at New York Presbyterian Weill Cornell. 
 
