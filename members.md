@@ -25,4 +25,9 @@ Koba received his Ph.D. from the United Graduate School of Agricultural Sciences
 Lab Manager
 
 ##  Past Lab Members
+#### Amanda Kaminaris, PA-C
+![profile](/assets/img/amanda.jpg)  
+Research technician (2015-2017)  
+Currently working in the OB/GYN department of Labor and delivery at New York Presbyterian Weill Cornell. 
+
 [//]: <#### Amanda Kaminaris>
