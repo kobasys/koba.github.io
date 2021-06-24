@@ -2,7 +2,7 @@
 layout: post
 title: Rescue That Frogs!
 subtitle: Our mission in research
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/frog1.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [mission]
