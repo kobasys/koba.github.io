@@ -2,7 +2,7 @@
 layout: post
 title: Research
 subtitle: Research Projects
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/LysoTag mouse heart RED-LysoTag GREEN-CathepsinD.avi
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [Research][Project]
